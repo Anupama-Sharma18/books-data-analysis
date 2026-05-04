@@ -30,7 +30,7 @@ This project extracts book data from a website and analyzes it to understand pat
 ## 📊 Visualizations
 
 ### Rating Distribution
-![Rating Chart](images/Rating Distribution.png)
+![Rating Chart](images/Rating_Distribution.png)
 
 ### Price vs Rating
-![Price Chart](images/Price vs Rating.png)
+![Price Chart](images/Price_vs_Rating.png)
