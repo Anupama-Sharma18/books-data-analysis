@@ -26,3 +26,11 @@ This project extracts book data from a website and analyzes it to understand pat
 
 2. Run:
    python scraper.py
+
+## 📊 Visualizations
+
+### Rating Distribution
+![Rating Chart](images/Rating Distribution.png)
+
+### Price vs Rating
+![Price Chart](images/Price vs Rating.png)
